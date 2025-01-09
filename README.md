@@ -17,8 +17,6 @@ My name is **Aldo Jacopo Virno**, I am a university student and a researcher pas
 
 - 🩺 [HybridHeartClassifier](https://github.com/aldojacopovirno/HybridHeartClassifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
 
-- 📈 Portfolio Optimization: Advanced algorithms for portfolio optimization and user clustering.
-
 ---
 
 ## 📫 Get in Touch
