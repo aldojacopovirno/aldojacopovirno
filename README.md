@@ -15,7 +15,7 @@ My name is **Aldo Jacopo Virno**, I am a university student and a researcher pas
 
 ## 🛠️ Key Projects
 
-- 🩺 [CardioSTAT](https://github.com/GreenWallResearch/CardioSTAT): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
+- 🩺 [HybridHeartClassifier](https://github.com/aldojacopovirno/HybridHeartClassifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
 
 - 📈 Portfolio Optimization: Advanced algorithms for portfolio optimization and user clustering.
 
