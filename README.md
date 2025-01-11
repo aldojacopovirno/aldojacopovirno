@@ -1,8 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-My name is **Aldo Jacopo Virno**, I am a university student and a researcher passionate about **machine learning**, **statistics**, and **algorithmic problem-solving**. 
-
-I am the **Founder & Head of Research** at [GreenWall Research](https://www.linkedin.com/company/greenwall-research), a startup that leverages algorithmic research and machine learning to solve complex problems.
+My name is **Aldo Jacopo Virno**, I am a university student and a researcher passionate about **machine learning**, **statistics**, and **algorithmic problem-solving**.  I am the **Founder & Head of Research** at [GreenWall Research](https://www.linkedin.com/company/greenwall-research), a startup that leverages algorithmic research and machine learning to solve complex problems.
 
 ---
 
