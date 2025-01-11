@@ -16,11 +16,3 @@ My name is **Aldo Jacopo Virno**, I am a university student and a researcher pas
 
 - [HybridHeartClassifier](https://github.com/aldojacopovirno/HybridHeartClassifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
 - [SemanticRetrievalEngine](https://github.com/aldojacopovirno/SemanticRetrievalEngine): Document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents
-
----
-
-## Get in Touch
-
-- [Email](mailto:aldojacopo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aldojacopovirno)  
-- [GreenWall Research](https://www.linkedin.com/company/greenwall-research)
