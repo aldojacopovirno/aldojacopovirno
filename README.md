@@ -14,5 +14,5 @@ My name is **Aldo Jacopo Virno**, I am a university student and a researcher pas
 
 ## Key Projects
 
-- [HybridHeartClassifier](https://github.com/aldojacopovirno/HybridHeartClassifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
-- [SemanticRetrievalEngine](https://github.com/aldojacopovirno/SemanticRetrievalEngine): Document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents
+- [Hybrid Heart Classifier](https://github.com/aldojacopovirno/hybrid-heart-classifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
+- SemanticRetrievalEngine: Document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents
