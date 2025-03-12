@@ -1,6 +1,7 @@
 # Welcome to my GitHub!
 
 My name is **Aldo Jacopo Virno**, I am a university student and a researcher passionate about **machine learning**, **statistics**, and **algorithmic problem-solving**.  
+
 ---
 
 ## What I do?
