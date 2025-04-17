@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-My name is **Aldo Jacopo Virno**, I am a university student and a researcher passionate about **statistics** and **math**.  
+My name is **Aldo Jacopo Virno**, I am a university student and a student researcher passionate about **statistics** and **math**.  
 
 ---
 
