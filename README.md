@@ -1,6 +1,6 @@
-# Welcome to my GitHub!
+# Hello world!
 
-My name is **Aldo Jacopo Virno**, I am a university student and a student researcher passionate about **statistics** and **math**.  
+Driven by curiosity. Drawn to everything that bridges theory, prediction, and the understanding of complexity. I use mathematical modeling and computational research to read the world through structured, reproducible lenses.
 
 ---
 
