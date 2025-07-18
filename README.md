@@ -1,4 +1,4 @@
-# Hello world!
+# Welcome to my GitHub!
 
 Driven by curiosity. Drawn to everything that bridges theory, prediction, and the understanding of complexity. I use mathematical modeling and computational research to read the world through structured, reproducible lenses.
 
