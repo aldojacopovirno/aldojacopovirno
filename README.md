@@ -14,5 +14,5 @@ Driven by curiosity. Drawn to everything that bridges theory, prediction, and th
 
 ## Key Projects
 
-- [Hybrid Heart Classifier](https://github.com/aldojacopovirno/hybrid-heart-classifier): Hybrid framework for cardiovascular disease classification and analysis, integrating statistical techniques and XGBoost algorithms.
-- [Semantic Retrieval Engine](https://github.com/aldojacopovirno/semantic-retrieval-engine): Document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents
+- [Hybrid Heart Classifier](https://github.com/aldojacopovirno/hybrid-heart-classifier): machine learning framework focused on cardiovascular risk prediction..
+- [Semantic Retrieval Engine](https://github.com/aldojacopovirno/semantic-retrieval-engine): document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents
