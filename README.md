@@ -6,7 +6,7 @@ Curious by nature, drawn to everything that bridges theory and reality. I’m in
 
 ## What I do?
 
-- **BSc Student**: I study *Statistics and Computer Science for Business, Finance, and Insurance* at the University of Naples Parthenope.  
+- **BSc Student**: I study *Statistics and Computer Science for Business, Finance, and Insurance* at the University of Naples 'Parthenope'.  
 - **Research & Development**: I conduct research in machine learning, with a focus on integrating statistical-mathematical methods to navigate the complexity of systems.  
 - **Startup**: Former founder and CTO of GreenWall Research, I focused on developing stochastic models applied to market modeling.
 
