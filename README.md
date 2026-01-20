@@ -8,4 +8,4 @@ Currently, I am a **BSc Student** in [Statistics and Computer Science for Busine
 
 Alongside my studies, I serve as **President** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/). Through advocacy, collaboration, and hands-on initiatives, we create a space where students can explore artificial intelligence, data science, and quantitative methods while contributing to the broader goal of shared knowledge and collective growth.
 
-My current research interests lie at the intersection of deep learning and quantum system modeling, where I explore how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with real-world applications.
+My current research interests lie at the intersection of deep learning and quantum system modeling, where I investigate how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with applied solutions.
